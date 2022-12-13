@@ -1,3 +1,2 @@
-jenkins_server ansible_host=54.166.31.254 ansible_user=ubuntu
-tomcat_server ansible_host=54.167.65.30 ansible_user=ubuntu
+tomcat_server ansible_host=54.166.31.254 ansible_user=ubuntu
 local ansible_connection=local
